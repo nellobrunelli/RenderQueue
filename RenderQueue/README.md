@@ -14,5 +14,6 @@ Version
 
 The version number follows semantic versioning http://semver.org
 
+
 2.0 new Interface, dropping of the batch file, automatic creation of Image folder, automatic set of MXI e Aouput field, "Apply to whole batch" button
 * Patch 2.1 Total Time at the bottom of the windows
