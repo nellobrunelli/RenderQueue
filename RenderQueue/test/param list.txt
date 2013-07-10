@@ -1,0 +1,1 @@
+maxwell -mxs:"O:\RenderQueue\RenderQueue\test\nesting rectangle - large - oak q 2Esp.mxs" -mxi:"O:\RenderQueue\RenderQueue\test\nesting cube - big and small - oak q 2Esp.mxi" -o:"O:\RenderQueue\RenderQueue\test\ciao.bat" -res:10x30 -time:50 -th:8 -s:25 -ml -nowait -display -p:low 
